@@ -1,0 +1,12 @@
+echo $BASH
+echo $BASH_VERSION
+echo $COLUMNS
+echo $HOME
+echo $LINE
+echo $LOGNAME
+echo $OSTYPE
+echo $PATH
+echo $PSI
+echo $PWD
+echo $SHELL
+echo $USERNAME
